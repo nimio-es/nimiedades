@@ -1,0 +1,1 @@
+La intención es que éste sea un repositorio donde acabe todo el detrito que vaya generando. Poco ya, a estas alturas de mi vida.
