@@ -1,0 +1,3 @@
+Script BATCH que sincroniza dos carpetas con la particularidad de que permite identificar carpetas que se quieren excluir incluyendo en ella un archivo con nombre "\_no\_sync\_". Otra particularidad es que no copia (sobrescribe) los archivos ya existentes. Por lo que es necesario compararlos antes de copiar. Ralentiza, pero es necesario porque este script fue desarrollado para un sincronizar carpetas entre dos sistemas, uno de los cuales detectaba cualquier modificación y lanzaba la ejecución de un proceso bastante pesado. De esta forma, si no es necesario, no se hace nada con el archivo y se evita la ejecución del mencionado proceso.
+
+Necesita tener instalado GNU on Windows.
